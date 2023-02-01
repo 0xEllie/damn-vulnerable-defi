@@ -20,5 +20,7 @@ How to use
 
 3. Run the test file using ‘npm run test’
 
+
 Disclaimer
+
 These solutions are meant for educational purposes and may contain vulnerabilities, therefore don’t use these contracts in a production environment.
